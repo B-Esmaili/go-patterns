@@ -1,0 +1,1 @@
+Go Design Pattern Implementation
